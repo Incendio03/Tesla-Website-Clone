@@ -7,17 +7,37 @@ function Home() {
     <Container>
         <Section 
             title="Model S"
-            description="Order Online for Touchless Delivery"
+            description="Luxury electric sedan with performance."
             backgroundImg="model-s.jpg"
             leftBtnText="Custom Order"
-            rightBtnText="Existing Inventory"
+            rightBtnText="Learn More"
         />
         <Section 
-            title="Model S"
-            description="Order Online for Touchless Delivery"
-            backgroundImg="model-s.jpg"
+            title="Model Y"
+            description="Compact, versatile electric SUV."
+            backgroundImg="model-y.jpg"
             leftBtnText="Custom Order"
-            rightBtnText="Existing Inventory"
+            rightBtnText="Learn More"
+        />
+        <Section 
+            title="Model X"
+            description="Electric SUV with falcon-wing doors."
+            backgroundImg="model-x.jpg"
+            leftBtnText="Custom Order"
+            rightBtnText="Learn More"
+        />
+        <Section 
+            title="Model 3"
+            description="Affordable, sleek electric sedan."
+            backgroundImg="model-3.jpg"
+            leftBtnText="Custom Order"
+            rightBtnText="Learn More"
+        />
+        <Section 
+            title="Accessories"
+            description=""
+            backgroundImg="accessories.jpg"
+            leftBtnText="SHOP NOW"
         />
     </Container>
   )
